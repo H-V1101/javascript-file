@@ -1,0 +1,1 @@
+age=Number.parseInt(age);
