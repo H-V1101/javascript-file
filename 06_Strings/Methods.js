@@ -26,7 +26,7 @@ console.log(friend.trim())
 let fr ="vardhan";
 for (let i=1;i<=fr.length;i++){
     console.log(i);
-    for(fr in fr){
+    for(let a of "vardhan"){
         console.log(fr);
     }
 }

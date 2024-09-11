@@ -14,9 +14,8 @@ let n = prompt("Enter the value of n ");
 n = Number.parseInt(n);
 let sum = 0;
 for (i = 0; i < n; i++) {
-  sum +=( i + 1 );
+  sum += i + 1;
 }
 console.log("sum of first " + n + " natural number is " + sum);
-
 
 
